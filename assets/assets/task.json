@@ -1,0 +1,137 @@
+{
+  "Tasks": [
+    {
+      "id": 3,
+
+      "text": "Laser Safety Goggles",
+      "RR": "1",
+      "TR": "3"
+    },
+
+    {  "id": 1,
+      "text": "Inspecting Faulty Wires in equipments",
+      "RR": "1",
+      "TR": "5"
+    },
+    {
+      "id": 5,
+
+      "text": "Placing Screens and debris nets",
+      "RR": "6",
+      "TR": "0"
+    },
+
+    {
+      "id": 2,
+
+      "text": "Wall shoring the sides of excavation",
+      "RR": "2.5",
+      "TR": "5"
+    },
+    {
+      "id": 1,
+      "text": "Class E hard hats",
+      "RR": "0.25",
+      "TR": "2"
+    },{
+      "id": 1,
+
+      "text": "Limit employee access Barricades to uninsulated energised conductors",
+      "RR": "0.25",
+      "TR": "3"
+    },
+
+    {
+      "id": 2,
+
+      "text": "Entrance and exit ladder tied",
+      "RR": "0.5",
+      "TR": "3"
+    },
+    {
+      "id": 1,
+      "text": "Placement and inspection of GFCI",
+      "RR": "3",
+      "TR": "5"
+    },
+    {
+      "id": 1,
+      "text": "Non- Conductive PPE",
+      "RR": "1",
+      "TR": "3"
+    },
+    {
+      "id": 2,
+
+      "text": "Barriers around the trench 2ft high",
+      "RR": "0.5",
+      "TR": "4"
+    }
+  ,
+
+    {
+      "id": 3,
+
+      "text": "PPE(Hard Hat, Safety boots , Safety Goggles, Safety vest)",
+      "RR": "2",
+      "TR": "5"
+    },
+    {
+      "id": 1,
+      "text": "Non conductive shoes",
+      "RR": "0.25",
+      "TR": "2"
+    },
+
+    {
+      "id": 4,
+
+      "text": "PPE(Hard Hat, Safety boots, Safety Goggles, Safety vest)",
+      "RR": "2",
+      "TR": "4"
+    },{
+      "id": 4,
+
+      "text": "Sloping/ benching sides of Trench",
+      "RR": "3",
+      "TR": "5"
+    },
+    {
+      "id": 5,
+
+      "text": "Installation of guard rail",
+      "RR": "6",
+      "TR": "0"
+    },
+    {
+      "id": 4,
+
+      "text": "Ear muffs",
+      "RR": "0.5",
+      "TR": "2"
+    }
+  ,{
+      "id": 5,
+
+      "text": "Safety Goggles",
+      "RR": "2",
+      "TR": "0"
+    },{
+      "id": 5,
+
+      "text": "Personal fall arrest system",
+      "RR": "15",
+      "TR": "0"
+    },
+    {
+      "id": 3,
+
+      "text": "Welding shields",
+      "RR": "1",
+      "TR": "3"
+    }
+
+
+
+  ]
+}
